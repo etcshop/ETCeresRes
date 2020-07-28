@@ -1,0 +1,7 @@
+
+/* LAYOUT */
+.wrapper-main > div, .wrapper-main > header {clear: both; float: left;}
+
+/* HEADER */
+.header > .container_centered > * {float: left}
+#headerSupport > .fa-volume-control-phone{transform: rotate(30deg) scaleX(-1)}
